@@ -1,2 +1,2 @@
 # Hometest
- This is a jupter notebook file to the home test
+ This is a jupyter notebook file for the homed test
